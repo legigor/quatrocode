@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QC.Observatory", "QC.Observatory\QC.Observatory.csproj", "{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QC.Observatory.Tests", "QC.Observatory.Tests\QC.Observatory.Tests.csproj", "{3D4D8631-4550-424A-A546-9240353ED4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QC.Observatory.Web", "QC.Observatory.Web\QC.Observatory.Web.csproj", "{18B705FB-A6A6-4C08-9D90-8EB05027D6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4D8631-4550-424A-A546-9240353ED4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4D8631-4550-424A-A546-9240353ED4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4D8631-4550-424A-A546-9240353ED4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4D8631-4550-424A-A546-9240353ED4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B705FB-A6A6-4C08-9D90-8EB05027D6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B705FB-A6A6-4C08-9D90-8EB05027D6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B705FB-A6A6-4C08-9D90-8EB05027D6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B705FB-A6A6-4C08-9D90-8EB05027D6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
