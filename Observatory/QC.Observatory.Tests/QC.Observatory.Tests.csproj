@@ -35,6 +35,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Libs\NUnit\framework\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="NUnitEx, Version=1.0.5.0, Culture=neutral, PublicKeyToken=57e34ad207e9e5a3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Libs\NUnitEx\NUnitEx.dll</HintPath>
+    </Reference>
     <Reference Include="Rhino.Mocks, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0b3305902db7183f, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Libs\Rhino.Mocks\Rhino.Mocks.dll</HintPath>
@@ -61,6 +65,11 @@
       <Project>{E0CF3952-A51E-45D5-98F3-80F6892FF3B7}</Project>
       <Name>QC.Observatory</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Specs\Reviews\When_raise_a_review.cs" />
+    <Compile Include="Utils\Specs\Should.cs" />
+    <Compile Include="Utils\Specs\Spec.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
