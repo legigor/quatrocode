@@ -1,4 +1,4 @@
-<TemplatesExport family="Live Templates">
+<TemplatesExport>
   <Template uid="96adce2e-268e-4389-9636-9595c8462dff" shortcut="should" description="" text="[QC.Observatory.Tests.Utils.Specs.Should]&#xD;&#xA;public void Should_$assert_something$()&#xD;&#xA;{&#xD;&#xA;	$END$&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
     <Context>
       <CSharpContext context="TypeMember" minimumLanguageVersion="2.0" />

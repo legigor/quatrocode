@@ -1,4 +1,4 @@
-<TemplatesExport family="File Templates">
+<TemplatesExport>
   <Template uid="8f6003cf-ebbf-43d0-ad86-40e3f31c3df5" shortcut="" description="Spec" text="namespace QC.Observatory.Tests.Specs.Reviews&#xD;&#xA;{&#xD;&#xA;    public class When_$perform_something$ : QC.Observatory.Tests.Utils.Specs.Spec&#xD;&#xA;    {&#xD;&#xA;        protected override void InContextOf()&#xD;&#xA;        {&#xD;&#xA;			$END$&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        protected override void Perform()&#xD;&#xA;        {&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;}" reformat="True" shortenQualifiedReferences="True">
     <Context>
       <ProjectLanguageContext language="CSharp" />
